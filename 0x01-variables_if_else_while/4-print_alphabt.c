@@ -3,7 +3,7 @@
 /**
  * main - main function
  *
- * Retur: 0 awlays
+ * Return: 0 awlays
  */
 
 int main(void)
